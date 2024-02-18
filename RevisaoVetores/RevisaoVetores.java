@@ -11,12 +11,12 @@ public class RevisaoVetores{
                 maior = vet[i];
             }
         }
-         System.out.println("O valor mais grande do vetor é: " + maior);
-        
+         
          int somatoria = 0;
          for(int i = 0; i <vet.length;++i){
             somatoria = somatoria +vet[i];
          }
-         System.out.println(somatoria);
+         System.out.println("O valor mais grande do vetor é: " + maior);
+         System.out.println("O valor menor é: "+somatoria);
     }
 }
