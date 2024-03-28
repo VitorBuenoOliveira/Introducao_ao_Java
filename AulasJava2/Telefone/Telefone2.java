@@ -1,4 +1,4 @@
-package Introducao_ao_Java.AulasJava2;
+package Introducao_ao_Java.AulasJava2.Telefone;
 
 public class Telefone2{
     public static void main(String[] args){
