@@ -1,4 +1,4 @@
-package Pares;
+package AulasJava.Pares;
 public class Pares{
     public static void main(String[] args){
         int ini = Integer.parseInt(args[0]);
