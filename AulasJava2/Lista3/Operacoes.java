@@ -48,8 +48,10 @@ public class Operacoes {
 	 * 
 	 */
 	static double calcularMedia(Aluno alu) {
-		double[] notas = alu.notas; // Acessando diretamente o atributo 'notas' de Aluno
-		
+		double[] notas = alu.notas;
+		if (notas == null || notas.length == 0) {
+			return 0;
+		}
 		double soma = 0;
 		for (double nota : notas) {
 			soma += nota;
