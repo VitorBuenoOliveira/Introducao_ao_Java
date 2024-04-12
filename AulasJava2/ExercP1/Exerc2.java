@@ -23,7 +23,6 @@ public class Exerc2 {
             
         }
     }
-
     // int calculaExponeciacao(int base, int expo){
     //     if(expo ==0){
     //         return 1;

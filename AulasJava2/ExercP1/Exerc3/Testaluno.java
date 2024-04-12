@@ -12,7 +12,7 @@ public class Testaluno {
 
         Aluno l2 = new Aluno();
         l2.nome = "Fulano";
-        l2.idade = 12;
+        l2.idade = 30;
 
         Aluno l3 = new Aluno();
         l3.nome = "Pedro";

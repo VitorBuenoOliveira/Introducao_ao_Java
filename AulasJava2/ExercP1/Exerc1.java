@@ -24,7 +24,7 @@ public class Exerc1 {
     }
 
     public static void imprimeIntervalo(int vInicial , int vFinal){
-        for(int i=vInicial;i<=vFinal;i++){
+        for(int i=vInicial;i<=vFinal;++i){
             if(i%2 == 0){
                 System.out.println(i+" ");
             }
