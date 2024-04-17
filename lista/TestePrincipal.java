@@ -1,6 +1,4 @@
-package AulasJava2.Lista3;
-
-
+package lista;
 
 /**
  * 
@@ -18,8 +16,6 @@ public class TestePrincipal {
 	
 	
 	public static void main(String[] args) {
-
-		
 		testImprimirComVetorCheio();
 		testImprimirComVetorVazio();
 		testImprimirComVetorNulo();
@@ -39,8 +35,6 @@ public class TestePrincipal {
 		testAprovadosComNotaCorteVariada();
 		testAprovadosComTodosAprovados();
 		testAprovadosComVetorVazio();
-
-		
 	}
 
 	

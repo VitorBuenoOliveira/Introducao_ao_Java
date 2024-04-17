@@ -1,6 +1,4 @@
-package AulasJava2.Lista3;
-
-
+package lista;
 
 import java.util.Arrays;
 
@@ -63,20 +61,5 @@ public class Aluno {
 			return false;
 		return true;
 	}
-
-	public double calcularMedia() {
-        if (notas == null || notas.length == 0) {
-            return 0;
-        }
-
-        double soma = 0;
-        for (double nota : notas) {
-            soma += nota;
-        }
-        return soma / notas.length;
-    }
-
-
-
 	
 }
