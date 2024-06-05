@@ -1,0 +1,16 @@
+==============================================================================+ 
+Inserindo Elementos
+
+A inserção padrão acontece no inicio da lista
+
+para inserção no fim , deve-se uma referência a mais.
+
+O tamanho é armazenado num contador separado.
+
+O Limite da lista é a quantidade de memória disponível
+
+
+Em listas ordenadas, deve-se percorrer a lista até encontrar o ponto de inserção
+
+=================================================================================
+

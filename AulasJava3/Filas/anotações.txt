@@ -1,0 +1,9 @@
+FIFO (Firts in First Out)
+
+Pode ser implementada com vetores ou listas ligadas.
+
+Pode armazenar qualquer tipo de informações.
+
+===
+A fila é ordenada(pela ordem em que os elementos entram nela)
+
