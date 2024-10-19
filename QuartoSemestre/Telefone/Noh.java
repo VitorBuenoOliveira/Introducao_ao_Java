@@ -1,3 +1,5 @@
+import br.unasp.Pessoa;
+
 public class Noh {
   Pessoa dado;
   Noh proximo;

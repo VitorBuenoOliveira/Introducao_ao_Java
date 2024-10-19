@@ -1,3 +1,5 @@
+import br.unasp.Pessoa;
+
 public class TesteBuscaSequencial{
     public static void main(String[] args) {
         int[] dados = new int[]{

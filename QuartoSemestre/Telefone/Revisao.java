@@ -1,3 +1,5 @@
+import br.unasp.Pessoa;
+
 public class Revisao {
     public static void main(String[] args) {
         // Testando a lista estática

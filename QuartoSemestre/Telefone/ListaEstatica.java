@@ -1,3 +1,5 @@
+import br.unasp.Pessoa;
+
 public class ListaEstatica {
   Pessoa[] dados;
   int indice = 0;

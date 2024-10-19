@@ -1,5 +1,7 @@
 package br.unasp;
 
+// import Pessoa;
+
 /**
  * 
  * Representacao de um noh da lista de elementos a serem salvos.

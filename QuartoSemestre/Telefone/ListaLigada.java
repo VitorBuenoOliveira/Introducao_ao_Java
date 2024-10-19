@@ -1,3 +1,5 @@
+import br.unasp.Pessoa;
+
 public class ListaLigada {
   Noh raiz;
 
